@@ -1,0 +1,187 @@
+*{
+    margin:0;
+}
+
+.nav{
+    
+    display: flex;
+}
+.logo img{
+    background-color: #00001C;
+}
+.nav{
+    
+    width: 100%;
+    background-color: #00001C;
+}
+.lang select{
+    height:35px;
+}
+.sign button{
+    height: 35px;
+}
+.sign button{
+     width: 60px;
+     padding: 5px;
+}
+.search .but{
+    border-radius: 10px;
+    padding-right: 0px;
+}
+.search {
+    display: flex;
+    
+}
+ .bar1 input{
+    width:290px;
+    height: 30px;
+   
+}
+button:hover{
+    background-color:darkgoldenrod;
+}
+.but button{
+    height: 36px;
+}
+.nav>div{
+
+    padding:40px ;
+    padding-bottom: 10px;
+    color: wheat;
+}
+.slider{
+    position: relative;
+    
+}
+.slider img{
+    width:100%;
+    height:600px;
+}
+.whole{
+    position: absolute;
+    top: 50%;
+}
+.page1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.page1 img{
+    width:300px;
+    height:350px;
+    display: block;
+    
+    
+}
+.page1 div{
+
+    background-color: beige;
+    margin-left: 10px;
+}
+.page1{
+    padding-top: 30px;
+    
+}
+
+.page1 button{
+    padding:15px;
+    margin-top: 5px;
+    
+    border-radius: 5px;
+}
+.page1>div{
+    border: solid 1px ;
+    padding:10px;
+}
+.page3{
+    margin-top: 5px;
+    padding-top: 30px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.page3>div{
+    border: solid 1px;
+    padding: 10px;
+}
+.page3 div{
+    background-color: beige;
+    margin-left: 10px;
+}
+.page3 button{
+     margin-top:5px ;
+     padding:15px;
+     border-radius: 5px;
+}
+.page3 img{
+    padding-top: 20px;
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+
+.page2 img{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 170px;
+    display: block;
+    justify-content: center;
+}
+.back{
+    padding-top: 30px;
+    width: 100%;
+    height:50px;
+    background-color:blueviolet;
+    text-align: center;
+}
+.back a{
+    color:white;
+    text-decoration: none;
+}
+.back div{
+      padding :10px;
+}
+.foot{
+    padding-top: 0px;
+    width: 100%;
+}
+.foot .f1{
+    display: flex;
+    
+    padding:200px;
+    padding-top:50px;
+    background-color: #00001C;
+}
+.foot div{
+   color: white;
+   
+}
+.f1 div{
+    padding: 20px;
+}
+.f1 p{
+    padding-top:10px;
+    
+}
+.f2{
+    height: 150px;
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    
+    background-color: blue;
+}
+ 
+
+
+.f2 p{
+    display: flex;
+   
+    margin-left: 15px;
+    align-items: center;
+    padding: 10px;
+   
+    
+}
+
+
